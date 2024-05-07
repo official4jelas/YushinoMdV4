@@ -30,14 +30,14 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281361281833', 'Aldi', true]
+['6285766450735', 'official_4', true]
 ]
-global.mods = []
-global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown2 = '6282376267531'//bisa nama pacarmu
-global.nomorwa = '0'//gakusah di ganti
+global.mods = ['6285766450735']
+global.prems = ['6285766450735']
+global.nomorbot = ''
+global.nomorown = '6285766450735'
+global.nomorown2 = '6285766450735'//bisa nama pacarmu
+global.nomorwa = '6285766450735'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
