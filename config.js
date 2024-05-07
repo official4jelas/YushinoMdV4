@@ -36,7 +36,7 @@ global.mods = ['6285766450735']
 global.prems = ['6285766450735']
 global.nomorbot = ''
 global.nomorown = '6285766450735'
-global.nomorown2 = '6285766450735'//bisa nama pacarmu
+global.nomorown2 = '6282328872433'//bisa nama pacarmu
 global.nomorwa = '6285766450735'//gakusah di ganti
 
 
