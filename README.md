@@ -14,7 +14,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Aldi-Ganz-Offc/YushinoMdV4
+$ git clone https://github.com/official4jelas/YushinoMdV4
 $ cd YushinoMdV4
 $ npm i 
 ```
